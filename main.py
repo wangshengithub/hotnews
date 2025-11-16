@@ -2313,7 +2313,7 @@ def render_html_content(
             
             <div class="footer">
                 <div class="footer-content">
-                    由 <span class="project-name">Hotnew</span> 生成 · 
+                    由 <span class="project-name">Hotnews</span> 生成 · 
                     <a href="https://wangshen.rth1.xyz/" target="_blank" class="footer-link">
                         个人主页
                     </a>"""
